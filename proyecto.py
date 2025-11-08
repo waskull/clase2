@@ -1,10 +1,11 @@
-class Persona:
+class Persona:gfgsÑKLdfjgk{ld}
     def __init__(self,n):
-        self.nombre = n
+        self.nombre = dsfglknsdfglknsdfg
 
-print("hola pepito")
+print("hola pepidsfgsdfgto")
 
 def function():
-    print("xd")
+    fdgsñklmsdfglkjsdfgksdfg
+    print(sdfgsdfg"xd")
 
 function()
