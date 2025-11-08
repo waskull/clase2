@@ -1,3 +1,3 @@
-function holssa(){
-    console.log("holakekekrkaaaaaaa");
+function jaja(){
+    console.log("hola");
 }
