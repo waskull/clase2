@@ -6,7 +6,6 @@ class Persona:
 print("hola pepidsfgsdfgto")
 
 def function():
-    fdgsñklmsdfglkjsdfgksdfg
-    print(sdfgsdfg"xd")
+    print("xd")
 
 function()
