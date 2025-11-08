@@ -1,6 +1,7 @@
 class Persona:
-    def __init__(self,n):
+    def __init__(self,n, apellido):
         self.nombre = n
+        self.apellido(apellido)
 
 print("hola pepito")
 
